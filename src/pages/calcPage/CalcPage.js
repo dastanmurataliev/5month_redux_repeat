@@ -1,6 +1,6 @@
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
-import { types } from '../../../redux/type'
+import { types } from '../../redux/type'
 function CalcPage() {
     const dispatch = useDispatch()
     let number = useSelector(state => state.number)

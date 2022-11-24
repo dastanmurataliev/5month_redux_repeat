@@ -1,6 +1,6 @@
 import './App.css';
 // import UsersPage from './pages/usersPage/UsersPage';
-import CalcPage from './pages/usersPage/calcPage/CalcPage';
+import CalcPage from './pages/calcPage/CalcPage';
 
 function App() {
   return (
